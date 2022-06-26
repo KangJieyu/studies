@@ -1,0 +1,4 @@
+多选框
+<input type="checkbox" checked="checked" disabled="disabled" />
+	checked属性值可以为boolean，含义为选中
+	disabled的值表示不可用
